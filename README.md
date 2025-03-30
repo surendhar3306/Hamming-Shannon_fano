@@ -53,9 +53,10 @@ var = round(var,3)
 ``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 # Calculation
 ![image](https://github.com/user-attachments/assets/f764d7e6-2bb4-431b-9c4f-02554f2a8ded)
-![image](https://github.com/user-attachments/assets/b2993e81-c4f6-4162-a019-0acd6c30f9b4)
-![image](https://github.com/user-attachments/assets/e48e8490-1cb7-47ae-b376-775d967b9506)
 
+![image](https://github.com/user-attachments/assets/b2993e81-c4f6-4162-a019-0acd6c30f9b4)
+
+![image](https://github.com/user-attachments/assets/e48e8490-1cb7-47ae-b376-775d967b9506)
 
 # Results.
 
